@@ -1,0 +1,12 @@
+node_modules/
+dist/
+
+.dev.vars
+
+**/*.*profile
+
+dist-node
+dist-prebuild
+dist-worker
+
+.wrangler
